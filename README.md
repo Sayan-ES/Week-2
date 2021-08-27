@@ -1,2 +1,2 @@
 # Week-2
-Week 2 of github
+Week 2 of Webdev
