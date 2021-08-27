@@ -1,0 +1,42 @@
+body{
+    /* ENTER YOUR CODE HERE */
+}
+.box{
+    /* ENTER YOUR CODE HERE */
+}
+.box h2{
+    /* ENTER YOUR CODE HERE */
+}
+.box .inputBox{
+    /* ENTER YOUR CODE HERE */
+}
+.box .inputBox input{
+    /* ENTER YOUR CODE HERE */
+}
+.box .inputBox label{
+    /* ENTER YOUR CODE HERE */
+
+}
+.box .inputBox input:focus ~ label,
+.box .inputBox input:valid ~ label{
+    /* ENTER YOUR CODE HERE */
+
+}
+.box input[type="submit"]{
+    /* ENTER YOUR CODE HERE */
+
+}
+.box .inputBox input:hover ~ label{
+    /* ENTER YOUR CODE HERE */
+
+}
+
+.box .inputBox input:hover {
+    /* ENTER YOUR CODE HERE */
+
+}
+
+.box input[type="submit"]:hover {
+    /* ENTER YOUR CODE HERE */
+
+}
